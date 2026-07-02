@@ -1,13 +1,17 @@
 # DSA
 Data Structures and Algorithms in C++
 
-## **Topics**
-- Sort
-- Search
-- Stack
-- Queue
-- Linklist
-- Graph
-- Dynamic Programming 
-- Greedy Algorithm
+## 📚 Topics
 
+```text
+DSA
+│
+├── 📁 Sorting/
+├── 📁 Searching/
+├── 📁 Stack/
+├── 📁 Queue/
+├── 📁 Linked List/
+├── 📁 Graph/
+├── 📁 Dynamic Programming/
+└── 📁 Greedy Algorithm/
+```
